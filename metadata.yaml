@@ -1,0 +1,26 @@
+_repo: The-Overland-Guide-bookA-complete-vade-mecum-for-the-overland-traveller-to-India-vi--Egypt._45706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45706-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barber, James, active 1837-1839
+    gutenberg_agent_id: '43420'
+    url: http://www.gutenberg.org/2009/agents/43420
+description: ''
+gutenberg_issued: '2014-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel -- Guidebooks'
+- !lcc 'G'
+title: 'The Overland Guide-book
+
+  A complete vade-mecum for the overland traveller, to India viâ Egypt.'
+url: http://www.gutenberg.org/ebooks/45706
